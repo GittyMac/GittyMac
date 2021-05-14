@@ -1,4 +1,4 @@
-<img height="240px" align="left" src="https://github.com/GittyMac/GittyMac.github.io/blob/master/wave.png?raw=true" />
+<img height="235px" align="left" src="https://github.com/GittyMac/GittyMac.github.io/blob/master/wave.png?raw=true" />
 
 # <a href="https://GittyMac.GitHub.io/">Lako</a>
 ## Who am I?
